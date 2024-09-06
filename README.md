@@ -38,9 +38,14 @@ Follow these steps to run your own script. Just copy and paste everything!
   - pip install -r requirements.txt
 
 - In the directory, also copy and paste the main.py file into your own
-- Change your email, password, and cohort number. This script shows 143 for my cohort so you'll want to change that number.
+- Change your email (line 63), password (line 64), and cohort number (lines 36 & 40). This script shows 143
+  for my cohort so you'll want to change that number.
 
-- Once all that is changed you should be good to run the script in your terminal! Run: python main.py
+- Once all that is changed you should be good to run the script in your terminal!
+- Run:
+  - python main.py
+  - the coffee maker
+    
 - Deactivated your terminal when the token has been submitted.
 
 ### Notes
